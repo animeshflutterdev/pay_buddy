@@ -62,7 +62,7 @@ dependencies:
   google_fonts: ^6.2.1
   lucide_icons_flutter: ^1.2.5
   #local storage
-  shared_preferences: ^2.3.3
+  shared_preferences: ^2.5.3
 
   #check connectivity
   connectivity_plus:
