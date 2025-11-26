@@ -43,7 +43,7 @@ dependencies:
   cached_network_image:
 
   # http
-  http: ^1.2.2
+  http: ^1.6.0
   #route manager web
   go_router: ^14.6.2
   #firebase
