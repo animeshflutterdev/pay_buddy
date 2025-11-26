@@ -68,7 +68,7 @@ dependencies:
   connectivity_plus:
 #  connectivity_plus: ^6.1.0
   #svg
-  flutter_svg: ^2.0.16
+  flutter_svg: ^2.2.3
 
   #open url
   url_launcher: ^6.3.1
