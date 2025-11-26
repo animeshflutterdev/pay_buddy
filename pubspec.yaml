@@ -96,7 +96,7 @@ dependencies:
   flutter_downloader: ^1.11.8
 
   flutter_inappwebview: ^6.1.5
-  web: ^1.1.0
+  web: ^1.1.1
   permission_handler: ^11.3.1
   #update:
   in_app_update: ^4.2.3
